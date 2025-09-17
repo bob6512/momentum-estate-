@@ -37,22 +37,22 @@ const Header = () => {
           </div>
           
           <div className="hidden md:flex items-center space-x-8">
-            <a href="#" className="text-foreground hover:text-accent transition-smooth font-medium">
+            <a href="/search-properties" className="text-foreground hover:text-accent transition-smooth font-medium">
               Search Properties
             </a>
-            <a href="#" className="text-accent font-medium">
+            <a href="/" className="text-accent font-medium">
               Our Agents
             </a>
-            <a href="#" className="text-foreground hover:text-accent transition-smooth font-medium">
+            <a href="/tools" className="text-foreground hover:text-accent transition-smooth font-medium">
               Tools
             </a>
-            <a href="#" className="text-foreground hover:text-accent transition-smooth font-medium">
+            <a href="/news" className="text-foreground hover:text-accent transition-smooth font-medium">
               News
             </a>
-            <a href="#" className="text-foreground hover:text-accent transition-smooth font-medium">
+            <a href="/about-us" className="text-foreground hover:text-accent transition-smooth font-medium">
               About Us
             </a>
-            <a href="#" className="text-foreground hover:text-accent transition-smooth font-medium">
+            <a href="/contact" className="text-foreground hover:text-accent transition-smooth font-medium">
               Contact
             </a>
           </div>
